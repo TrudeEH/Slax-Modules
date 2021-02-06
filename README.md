@@ -1,1 +1,1 @@
-# TrudePocketOS
+# Slax Modules
